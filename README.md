@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naeem Malik</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malik-na&label=Profile%20views&color=0e75b6&style=flat" alt="malik-na" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malik-na" alt="malik-na" /></a> </p>
-
 - 💬 Ask me about **React.js, Next.js, Tailwind CSS, Material UI**
 
 - 📫 How to reach me **malik2015naeem@gmail.com**
