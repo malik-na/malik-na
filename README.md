@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1283D1&size=35&center=true&vCenter=true&width=1000&lines=Hello!👋;+I+am++Naeem+Malik+👩‍🎓;I'm+26+years+old;Turning+ideas+into+reality...;+one+line+of+code+at+a+time+🧑🏽‍💻;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1283D1&size=35&center=true&vCenter=true&width=1000&lines=Hello!👋;+I+am++Naeem+Malik+👨🏻‍🎓;I'm+26+years+old;Turning+ideas+into+reality...;+one+line+of+code+at+a+time+🧑🏽‍💻;Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Naeem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malik-na&bg_color=0d1117&color=1283D1&line=1283D1&point=45A2E3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
