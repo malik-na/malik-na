@@ -1,6 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1283D1&size=35&center=true&vCenter=true&width=1000&lines=Hello!👋;+I+am++Naeem+Malik+👨🏻‍🎓;I'm+26+years+old;Turning+ideas+into+reality...;+one+line+of+code+at+a+time+🧑🏽‍💻;Welcome!+:%29)](https://git.io/typing-svg)
+
 
 <div align="center">
   <img width="100%" height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=malik-na&bg_color=0d1117&color=1283D1&line=1283D1&point=45A2E3&area=true&hide_border=true" alt="Naeem's GitHub Activity Graph" />
@@ -23,10 +22,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Skills Overview:
- **MERN Stack**: Proficient in MongoDB, Express.js, React, and Node.js.
- 
- **Web Development**: Expertise in building responsive and interactive web applications with JavaScript, HTML5, CSS3.
+
 
 <div align="center" padding-bottom="10px"> 
 <a href = "mailto:malik2015naeem@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
